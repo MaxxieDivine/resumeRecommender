@@ -1,0 +1,8 @@
+# requirements.txt
+pandas
+pdfplumber
+sentence-transformers
+scikit-learn
+numpy
+# Add streamlit if you want the UI component
+# streamlit
